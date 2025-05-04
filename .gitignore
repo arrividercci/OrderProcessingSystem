@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/OrderProcessingSystem/.vs/OrderProcessingSystem/v17/.suo
+/src/OrderProcessingSystem/.vs/OrderProcessingSystem/v17/DocumentLayout.backup.json
+/src/OrderProcessingSystem/.vs/OrderProcessingSystem/v17/DocumentLayout.json
+/src/OrderProcessingSystem/.vs/OrderProcessingSystem/FileContentIndex/35c51cf5-9433-42c6-b58b-ea31c232b13f.vsidx
+/src/OrderProcessingSystem/.vs/OrderProcessingSystem/FileContentIndex/5af89db0-8a3f-42c6-bd6f-2acbce7b901d.vsidx
+/src/OrderProcessingSystem/.vs/OrderProcessingSystem/FileContentIndex/4d9d4432-6618-4a31-9414-56a3ed97d95a.vsidx
+/src/OrderProcessingSystem/.vs/OrderProcessingSystem/FileContentIndex/caff716b-5070-4530-bd5b-d121c693ba63.vsidx
